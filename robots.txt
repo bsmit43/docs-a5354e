@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hdvo56.rtb-system.online/sitemap.xml
